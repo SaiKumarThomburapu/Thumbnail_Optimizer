@@ -23,4 +23,4 @@ SCORING_WEIGHTS = {
     "face": 0.2
 }
 SHARPNESS_DIVISOR = 1000
-POSITIVE_EMOTIONS = ["happy", "surprise", "neutral"]
+POSITIVE_EMOTIONS = ["happy", "surprise"]

@@ -1,0 +1,20 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+
+# Image & Video Processing
+opencv-python==4.9.0.80
+imageio==2.34.0
+Pillow==10.3.0
+
+# AI/ML & Face/Emotion Detection
+fer==22.5.0
+mtcnn==0.1.1
+tensorflow==2.15.0  # required by MTCNN and FER
+
+# Utilities
+numpy==1.26.4
+
+moviepy==1.0.3
+scikit-image
+opencv-python
